@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Serge (nickname: 0xlay)
 
-### I'm a begginer 🪟Windows Kernel Developer
+### I'm a 🪟Windows System Developer & 🕵️‍Security Researcher
 
 ### I like to make software. I'm interesting:
 - 👨‍💻 System Development
