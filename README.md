@@ -17,10 +17,13 @@
 [![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=light)](https://mastodon.social/@0xlay)
 
 ### Programming languages
-![Programming languages](https://skillicons.dev/icons?i=cpp,c,rust,python,bash,powershell,js,html,css,mysql&perline=10&theme=light)
+![Programming languages](https://skillicons.dev/icons?i=cpp,c,rust,python,bash,powershell,ts,html,css&perline=10&theme=light)
+
+### Databases
+![Programming languages](https://skillicons.dev/icons?i=sqlite,mysql&perline=10&theme=light)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=cmake,docker,git&perline=10&theme=light)
+![Tools](https://skillicons.dev/icons?i=cmake,docker,git,vscode,&perline=10&theme=light)
 
 ### Systems
 ![Systems](https://skillicons.dev/icons?i=windows,apple,linux&perline=10&theme=light)
