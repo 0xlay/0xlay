@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/header/0xlay_lab.png" alt="0xlay Lab">
-</div>
-
 ### Hi there 👋, I'm Serge (nickname: 0xlay)
 
 ### I'm 👨‍💻Software Engineer & 🕵️‍Security Researcher
@@ -9,7 +5,7 @@
 ### I like to make software. I'm interesting:
 - 👨‍💻 System Development
 - 🕵️‍♂️ Cyber Security
-- 🖥️ OS Development
+- 🖥️ AI
 
 ### Follow Me
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/0xlay)
