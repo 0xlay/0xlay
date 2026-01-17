@@ -1,31 +1,22 @@
-### Hi there 👋, I'm Serge (nickname: 0xlay)
+<div align="center">
+    <img src="assets/header/github_header.png" alt="0xlay Lab">
+</div>
 
-### I'm 👨‍💻Software Engineer & 🕵️‍Security Researcher
+### Hi there 👋, I'm Serge (aka 0xlay)
 
-### I like to make software. I'm interesting:
+### 👨‍💻 Software Engineer & 🕵️‍♂️ Security Researcher
+
+I enjoy building software, exploring low-level systems, and diving into security challenges. My main interests are:
+
 - 👨‍💻 System Development
-- 🕵️‍♂️ Cyber Security
-- 🖥️ AI
+- 🕵️‍♂️ Cybersecurity
+- 🤖 Artificial Intelligence & Machine Learning
+
+When I'm not coding, I like to experiment with new tech, contribute to open-source projects.
 
 ### Follow Me
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/0xlay)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/0xlay)
-[![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=light)](https://mastodon.social/@0xlay)
 
-### Programming languages
-![Programming languages](https://skillicons.dev/icons?i=cpp,c,rust,python,bash,powershell,ts,html,css&perline=10&theme=light)
-
-### Databases
-![Programming languages](https://skillicons.dev/icons?i=sqlite,mysql&perline=10&theme=light)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=cmake,docker,git,vscode,&perline=10&theme=light)
-
-### Systems
-![Systems](https://skillicons.dev/icons?i=windows,apple,linux&perline=10&theme=light)
-
-### Statistics
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xlay&count_private=true&show_icons=true&theme=material-palenight" alt="Serge's GitHub Stats" style="display: inline-block; margin-right: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlay&layout=compact&theme=material-palenight" alt="Top Langs" style="display: inline-block; margin-right: 10px;"/>
-</div>
+[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=light)](https://www.youtube.com/@0xlay_lab)
+[![Twitch](https://go-skill-icons.vercel.app/api/icons?i=twitch&theme=light)](https://www.twitch.tv/0xlay_lab)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=x&theme=light)](https://x.com/0xlay)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light)](https://github.com/0xlay)
